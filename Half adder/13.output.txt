@@ -1,0 +1,22 @@
+UVM_INFO @ 0: reporter [RNTST] Running test test...
+UVM_INFO environment.sv(11) @ 0: uvm_test_top.ev [ENV] Environment Created
+UVM_INFO sequence.sv(11) @ 0: uvm_test_top.ev.agt.seq@@sq [TRAS] Trans starts
+UVM_INFO scoreboard.sv(23) @ 10: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 20: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 0, sum = 0, carry = 0
+UVM_INFO scoreboard.sv(23) @ 30: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 1, sum = 1, carry = 0
+UVM_INFO scoreboard.sv(23) @ 40: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 0, sum = 0, carry = 0
+UVM_INFO scoreboard.sv(23) @ 50: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 60: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 1, sum = 1, carry = 0
+UVM_INFO scoreboard.sv(23) @ 70: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 0, sum = 1, carry = 0
+UVM_INFO scoreboard.sv(23) @ 80: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 0, sum = 0, carry = 0
+UVM_INFO scoreboard.sv(23) @ 90: uvm_test_top.ev.scb [sco] Test Passed : a = 0 ,b = 0, sum = 0, carry = 0
+UVM_INFO scoreboard.sv(23) @ 100: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 110: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 120: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 130: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 140: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 150: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 160: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 170: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 180: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
+UVM_INFO scoreboard.sv(23) @ 190: uvm_test_top.ev.scb [sco] Test Passed : a = 1 ,b = 1, sum = 0, carry = 1
